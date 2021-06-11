@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://jacob123:Fortcollins98@mama5fitness.jqpxo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://jacob123:Fortcollins98@mama5fitness.jqpxo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
