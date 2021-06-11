@@ -15,3 +15,8 @@ stack I learned. To complete it I constructed the front-end using React JavaScri
 am becoming more comfortable using JavaScripts famous framework. I am seeking to take on my next project in either VueJS or 
 AngularJS to determine which I like to work with more. I know all 3 are very demanding. I al also currently taking Python classes 
 and plan to integrate Pythons framekwork Django in one of my upcoming projects.
+
+
+## Clone
+## npm i
+## npm run dev
