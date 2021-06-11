@@ -6,18 +6,14 @@ const ProfileSchema = new mongoose.Schema({
         type: mongoose.Schema.Types.ObjectId,
         ref: "user",
     },
-
-    bio: {
-        type: String,
+    company: {
+        type: String
     },
-    favoritemovie: {
-        type: String,
+    website: {
+        type: String
     },
-    favoritegame: {
-        type: String,
-    },
-    favoritetvseries: {
-        type: String,
+    location: {
+        type: String
     },
     social: {
     youtube: {
